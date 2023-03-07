@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gh-pages/static/css/main.75224697.css",
+    "main.js": "/gh-pages/static/js/main.38c747a6.js",
+    "static/media/Me-cold.jpg": "/gh-pages/static/media/Me-cold.090048ad752f82877def.jpg",
+    "index.html": "/gh-pages/index.html",
+    "main.75224697.css.map": "/gh-pages/static/css/main.75224697.css.map",
+    "main.38c747a6.js.map": "/gh-pages/static/js/main.38c747a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75224697.css",
+    "static/js/main.38c747a6.js"
+  ]
+}
