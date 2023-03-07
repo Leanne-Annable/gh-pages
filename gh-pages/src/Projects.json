@@ -1,0 +1,50 @@
+[
+    {
+        "project": 1,
+        "name": "Bootstrap Portfolio",
+        "image": "https://raw.githubusercontent.com/Leanne-Annable/Bootstrap-Portfolio/main/images/Sunset-Fuji.jpg",
+        "link": "https://leanne-annable.github.io/Bootstrap-Portfolio/",
+        "description": "This is a basic portfolio that I did using bootstrap layouts",
+        "github": "https://github.com/Leanne-Annable/Bootstrap-Portfolio"
+    },
+    {
+        "project": 2,
+        "name": "Password Generator",
+        "image": "https://raw.githubusercontent.com/Leanne-Annable/PasswordGenerator/main/Assets/images/starter-screen.jpg",
+        "link": "https://leanne-annable.github.io/PasswordGenerator/",
+        "description": "An app to you generate a random password.",
+        "github": "https://github.com/Leanne-Annable/PasswordGenerator"
+    },
+    {
+        "project": 3,
+        "name": "Code Quiz",
+        "image": "https://raw.githubusercontent.com/Leanne-Annable/CodeQuiz/main/assets/images/HighScores.jpg",
+        "link": "https://leanne-annable.github.io/CodeQuiz/",
+        "description": "A short quiz to test your coding knowledge.",
+        "github": "https://github.com/Leanne-Annable/CodeQuiz"
+    },
+    {
+        "project": 4,
+        "name": "Work Day Scheduler",
+        "image": "https://raw.githubusercontent.com/Leanne-Annable/WorkDayScheduler/main/assets/images/start-screen.jpg",
+        "link": "https://leanne-annable.github.io/WorkDayScheduler/",
+        "description": "A real-time day scheduler",
+        "github": "https://github.com/Leanne-Annable/WorkDayScheduler"
+    },
+    {
+        "project": 5,
+        "name": "Weather Dashboard",
+        "image": "https://raw.githubusercontent.com/Leanne-Annable/WeatherDashboard/main/assets/images/forecast.jpg",
+        "link": "https://leanne-annable.github.io/WeatherDashboard/?",
+        "description": "A weather forecast app.",
+        "github": "https://github.com/Leanne-Annable/WeatherDashboard"
+    },
+    {
+        "project": 6,
+        "name": "Sneak Peek",
+        "image": "https://raw.githubusercontent.com/Leanne-Annable/Project-1-Sneak-Peak/main/assets/images/screenshots/main-screen.jpg",
+        "link": "https://leanne-annable.github.io/Project-1-Sneak-Peak/",
+        "description": "A movie information site that i designed using API calls.",
+        "github": "https://github.com/Leanne-Annable/Project-1-Sneak-Peak"
+    }
+]

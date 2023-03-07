@@ -1,0 +1,22 @@
+.projects{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+}
+
+ul{
+    text-align: center;
+    list-style-type: none;
+    padding-left: 0 !important;
+}
+
+.projectsMain{
+    text-align: center;
+}
+.projectsTitle{
+    text-align: left;
+}
+a {
+    color: black !important;
+    text-decoration: none !important;
+}

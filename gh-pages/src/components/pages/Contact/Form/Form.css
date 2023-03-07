@@ -1,0 +1,14 @@
+.formSect{
+    margin: 2px;
+    border: 2px solid black;
+    border-radius: 0.375rem;
+    text-align: center;
+}
+.comments{
+    width: 500px;
+    height: 200px;
+}
+
+.formButton{
+    border: 2px solid black !important;
+}
